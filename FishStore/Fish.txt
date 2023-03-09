@@ -1,0 +1,36 @@
+7
+1
+Ca vang
+150.0
+300.0
+VN
+2
+Ca bay mau
+250.5
+400.0
+Can Tho
+3
+Ca chuom
+250.0
+100.0
+Viet nam
+4
+Ca map
+550.5
+700.5
+USA
+5
+Ca voi
+250.55
+300.05
+UK
+6
+Ca Vang
+400.0
+355.0
+Viet Nam
+7
+Ca Bay Mau
+300.0
+299.0
+Nhat Ban
